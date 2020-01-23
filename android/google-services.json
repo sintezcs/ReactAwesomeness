@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78430943153",
+    "firebase_url": "https://reactawesomenessapp.firebaseio.com",
+    "project_id": "reactawesomenessapp",
+    "storage_bucket": "reactawesomenessapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78430943153:android:75cea35580fe4e21fcaf90",
+        "android_client_info": {
+          "package_name": "ReactAwesomeness.aonamrata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78430943153-rm5gpj8ltt1flrjoato3o0k152ppfn45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVNwXt14A4f92e9iwa0U9PUXVdXH2RIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78430943153-rm5gpj8ltt1flrjoato3o0k152ppfn45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
